@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500');
+
+*{
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+#app-title{
+    margin-left: 110px;;
+}
+
+#menu-title{
+    margin-left: 10px;
+}
+
+.App-header {
+    background-color: #2979FF;
+    padding: 20px;
+    color: white;
+}
+
+.App-intro {
+    font-size: large;
+}
+
